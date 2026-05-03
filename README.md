@@ -7,7 +7,7 @@ Personal experiments and analysis based on the following paper:
 > - Original Code: [hangligit/InterpretDiffusion](https://github.com/hangligit/InterpretDiffusion)
 
 ## Purpose
-Prior research analysis for personal research interests and graduate school application portfolio.
+Prior research analysis for personal research interests
 
 ## What I did
 - [x] 기본 코드 재현 및 환경 세팅
