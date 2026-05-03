@@ -2,7 +2,7 @@
 
 Personal experiments and analysis based on the following paper:
 
-> Li et al., "Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation", CVPR 2024
+> Li et al., "Self-Discovering Interpretable Diffusion Latent Directions for Responsible Text-to-Image Generation"
 > - Paper: [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Self-Discovering_Interpretable_Diffusion_Latent_Directions_for_Responsible_Text-to-Image_Generation_CVPR_2024_paper.pdf)
 > - Original Code: [hangligit/InterpretDiffusion](https://github.com/hangligit/InterpretDiffusion)
 
