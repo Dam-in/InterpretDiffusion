@@ -10,6 +10,7 @@ Personal experiments and analysis based on the following paper:
 Prior research analysis for personal research interests
 
 ## What I did
-- [x] 기존 코드 재현 및 환경 세팅
+- [x] 환경 세팅
+- [ ] 기존 코드 재현
 - [ ] 잘 적용 되는 concept과 그렇지 않은 concept 분석
 - [ ] 실험 재현
